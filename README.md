@@ -1,0 +1,5 @@
+# assignment2
+
+High frequency trading (HFT) has been controversial since its inception. On the one hand, it takes advantage of its great information advantage to grab huge profits in the market, which hinders market fairness and makes ordinary investors suffer losses. On the other hand, highly rational decision-making promotes market liquidity and price discovery. After the outbreak of the stock market crash in 2015, China Securities Regulatory Commission and China International Capital Exchange (CFIX) pointed the finger at the program trading, believing that its role in promoting the rise and fall of the stock market exacerbated the stock market crash.
+
+This assignment wants to be able to copy the code of Brogaard, Riordan and Hendershott (2014). I will use the state space model and Kalman filter to find out the various types of variables in the market. Considering the lack of high-frequency trading data in the Chinese market, I propose an innovative method to represent high-frequency trading, and use this variable to make a regression analysis of the results obtained by Kalman filtering.
